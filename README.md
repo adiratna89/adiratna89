@@ -52,9 +52,9 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 ---
 
 ## 📫 Connect with Me
-- 💻 [GitHub](https://github.com/adirtana89)  
-- 🔗 [LinkedIn](www.linkedin.com/in/adiratna-kamble)  
-- 💻 [GitHub](https://github.com/adiratna89)  
+- 💻 (https://github.com/adirtana89)  
+- 🔗 (www.linkedin.com/in/adiratna-kamble)  
+- 💻 (https://github.com/adiratna89)  
 - ✉️ Email: adi8976839010@gmail.com  
 
 ---
@@ -62,8 +62,8 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 ✨ *“Data is the new oil, and I aim to refine it into valuable insights.”*
 
 )  
-- 🔗 [LinkedIn](www.linkedin.com/in/adiratna-kamble)  
-- 💻 [GitHub](https://github.com/adiratna89)  
+- 🔗 (www.linkedin.com/in/adiratna-kamble)  
+- 💻 (https://github.com/adiratna89)  
 - ✉️ Email: adi8976839010@gmail.com  
 
 ---
