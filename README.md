@@ -22,7 +22,7 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 ---
 
 ## 🔹 Projects
-- [Sales Data Analysis](https://github.com/yourusername/sales-data-analysis) – Analyzing 10,000+ rows of sales data to identify trends, top products, and regional performance.  
+- [Sales Data Analysis](https://github.com/adiratna89/sales-data-analysis) – Analyzing 10,000+ rows of sales data to identify trends, top products, and regional performance.  
 - (More projects coming soon 🚧)  
 
 ---
@@ -35,9 +35,9 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiratna.kamble@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adiratna-kamble)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/adiratna89)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi8976839010@gmail.com)  
 
 ---
 
