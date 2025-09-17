@@ -37,7 +37,7 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]
 (https://github.com/adiratna89)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(gmailto:adi8976839010@gmail.com)  
+(mailto:adi8976839010@gmail.com)  
 📱 **Phone**: +91 77180 80580 / 89768 39010  
 
 ---
