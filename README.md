@@ -35,9 +35,12 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adiratna-kamble)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/adiratna89)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi8976839010@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
+(www.linkedin.com/in/adiratna-kamble)  
+[![GitHub]
+(https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/adiratna89)  
+[![Gmail]
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi8976839010@gmail.com)  
 
 ---
 
