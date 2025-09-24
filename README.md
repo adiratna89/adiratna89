@@ -30,6 +30,15 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 
 ---
 
+## 📄 Resume  
+
+You can directly download my latest **Data Analyst Resume** here:  
+
+- [📑 Resume (PDF Version)](https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Adiratna_Kamble_Data_Analyst_Resume.pdf)  
+- [📑 Resume (Word Version)](https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Adiratna_Kamble_Data_Analyst_Resume.docx)  
+
+---
+
 ## 📫 Connect with Me  
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
