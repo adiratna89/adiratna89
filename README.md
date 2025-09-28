@@ -17,7 +17,7 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 
 - 🎯 Aspiring **Data Analyst / Data Scientist** with skills in Python, SQL, Excel, and Machine Learning  
 - 📊 Passionate about **data storytelling, dashboards, and business insights**  
-- ⚡ Interested in **Generative AI & Machine Learning applications** 
+- ⚡ Interested in **Generative AI & Machine Learning applications**
 - 📚 Lifelong learner, currently sharpening my skills in **Pandas, Seaborn, and advanced analytics**  
 
 ---
@@ -32,10 +32,10 @@ I am passionate about turning raw data into actionable insights. With a backgrou
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=flat-square&logo=databricks&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white) 
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-8E44AD?style=flat-square&logo=databricks&logoColor=white)   ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=flat-square&logo=chartdotjs&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=flat-square&logo=databricks&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)  
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-8E44AD?style=flat-square&logo=databricks&logoColor=white)   ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=flat-square&logo=chartdotjs&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white) 
 
 ---
@@ -77,11 +77,45 @@ You can directly download my latest resume here:
 
 ## 📫 Connect With Me  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi8976839010@gmail.com)  **:**  adi8976839010@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiratna-kamble)  **:**  [www.linkedin.com/in/adiratna-kamble](https://www.linkedin.com/in/adiratna-kamble)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adiratna89)  **:**  [github.com/adiratna89](https://github.com/adiratna89)  
-[![Phone 1](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917718080580)  **:**  +91 77180 80580  
-[![Phone 2](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918976839010)  **:**  +91 89768 39010  
+<p align="left">
+  <a href="mailto:adi8976839010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp; adi8976839010@gmail.com
+</p>
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adiratna-kamble">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp; <a href="https://www.linkedin.com/in/adiratna-kamble">www.linkedin.com/in/adiratna-kamble</a>
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/adiratna89">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp; <a href="https://github.com/adiratna89">github.com/adiratna89</a>
+</p>
+
+
+<p align="left">
+  <a href="tel:+917718080580">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp; +91 77180 80580
+</p>
+
+
+<p align="left">
+  <a href="tel:+918976839010">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp; +91 89768 39010
+</p>
+
 
 ---
 
