@@ -83,7 +83,7 @@ You can directly download my latest resume here:
   <a href="mailto:adi8976839010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp; adi8976839010@gmail.com
+  &nbsp; <a href="mailto:adi8976839010@gmail.com"> adi8976839010@gmail.com</a>
 </p>
 
 
@@ -91,7 +91,7 @@ You can directly download my latest resume here:
   <a href="https://www.linkedin.com/in/adiratna-kamble">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp; <a href="https://www.linkedin.com/in/adiratna-kamble">www.linkedin.com/in/adiratna-kamble</a>
+  &nbsp; <a href="https://www.linkedin.com/in/adiratna-kamble"> www.linkedin.com/in/adiratna-kamble</a>
 </p>
 
 
@@ -99,7 +99,7 @@ You can directly download my latest resume here:
   <a href="https://github.com/adiratna89">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp; <a href="https://github.com/adiratna89">github.com/adiratna89</a>
+  &nbsp; <a href="https://github.com/adiratna89"> github.com/adiratna89</a>
 </p>
 
 
@@ -107,7 +107,7 @@ You can directly download my latest resume here:
   <a href="tel:+917718080580">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  &nbsp; +91 77180 80580
+  &nbsp; <a href="tel:+917718080580"> +91 77180 80580</a>
 </p>
 
 
@@ -115,7 +115,7 @@ You can directly download my latest resume here:
   <a href="tel:+918976839010">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  &nbsp; +91 89768 39010
+  &nbsp; <a href="tel:+918976839010"> +91 89768 39010</a>
 </p>
 
 
