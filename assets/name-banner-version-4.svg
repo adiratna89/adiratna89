@@ -7,35 +7,41 @@
           50% { background-position: 100% 50%; }
           100% { background-position: 0% 50%; }
         }
+
         h1 {
-          margin: 1em 0;
+          margin: 1em 0 0.1em 0;
           font-size: 3em;
           font-weight: 900;
           letter-spacing: -.05em;
           text-align: center;
-          background: linear-gradient(270deg, #3828ca 0, #ff004c);
-          background-size: 100%;
+          background: -webkit-linear-gradient(right,#3828ca,#ff004c);
+          background: linear-gradient(270deg,#3828ca 0,#ff004c);
+          background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
+          -webkit-animation: home_name-animation__3Ydoo 3s ease infinite;
           animation: gradientText 3s ease infinite;
         }
-      h5 {
-          margin: 13px 0 0 0;
+
+        h5 {
+          margin: 0;
           font-size: 1em;
-          font-weight: 600;
-          letter-spacing: 0.04em;
+          font-weight: 700;
+          letter-spacing: .08em;
           text-align: center;
-          color: #DFFCF8;
-          background: linear-gradient(270deg, #3828ca 0, #ff004c);
-          background-size: 100%;
+          background: -webkit-linear-gradient(right,#3828ca,#ff004c);
+          background: linear-gradient(270deg,#3828ca 0,#ff004c);
+          background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
+          -webkit-animation: home_name-animation__3Ydoo 3s ease infinite;
           animation: gradientText 3s ease infinite;
         }
       </style>
       <h1>Adiratna Kamble</h1>
+      <h5>Data Science | Machine Learning | Analytics</h5>
     </div>
   </foreignObject>
 </svg>
