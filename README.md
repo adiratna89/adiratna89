@@ -3,6 +3,10 @@
 <!-- ============================================ -->
 
 <p align="center">
+  <img src="./assets/name-banner-version-4.svg" alt="banner" width="700" />
+</p>
+
+<p align="center">
   <img src="./assets/name-banner.svg" alt="Adiratna Kamble snowflake banner" width="100%" />
 </p>
 
