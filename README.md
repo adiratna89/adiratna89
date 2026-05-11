@@ -3,15 +3,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="./assets/name-banner-version-4.svg" alt="banner" width="700" />
-</p>
-
-<p align="center">
-  <img src="./assets/name-banner.svg" alt="Adiratna Kamble snowflake banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,70:111827,100:00F5D4&height=170&section=header&text=Adiratna%20Kamble&fontSize=46&fontColor=ffffff&animation=twinkling&stroke=00F5D4&strokeWidth=1.2&fontAlignY=30&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=56" />
+  <img src="./assets/name-banner-version-5-improved.svg" alt="banner" width="700" />
 </p>
 
 <h1 align="center">
