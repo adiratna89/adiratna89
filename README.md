@@ -1,15 +1,19 @@
 <!-- ============================================ -->
-<!--          FINAL PREMIUM GITHUB README         -->
+<!--        MASTER HIGH-CREATIVE GITHUB README    -->
 <!-- ============================================ -->
 
-<h1 align="center">Hi, I'm Adiratna Kamble 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Aspiring+Data+Analyst+%26+ML+Practitioner;Building+Machine+Learning+%2B+Data+Science+Projects;Turning+Data+into+Insights%2C+Models%2C+and+Portfolio-Ready+Work;Learning+Deeply.+Building+Publicly.+Growing+Consistently." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,70:111827,100:00F5D4&height=170&section=header&text=Adiratna%20Kamble&fontSize=46&fontColor=ffffff&animation=twinkling&stroke=00F5D4&strokeWidth=1.2&fontAlignY=30&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=56" />
+</p>
+
+<h1 align="center">
+  Hi, I'm Adiratna Kamble&nbsp;<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving hand" width="40" height="40" style="vertical-align: middle;"></h1>
+<p align="center">
+  ✨ Learning Publicly &nbsp;•&nbsp; 🚀 Building Projects &nbsp;•&nbsp; 💻 Growing My Portfolio &nbsp;•&nbsp; 🔥 Improving Consistently
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:00F5D4&height=140&section=header&text=Future-Tech%20Data%20Portfolio&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Aspiring+Data+Analyst+%26+ML+Practitioner;Building+Machine+Learning+%2B+Deep+Learning+%2B+Analytics+Projects;Turning+Data+into+Insights%2C+Models%2C+and+Portfolio-Ready+Work;Learning+Deeply.+Building+Publicly.+Growing+Consistently." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,10 +26,20 @@
 
 ## 🚀 Identity
 
-**Aspiring Data Analyst & ML Practitioner** building data science, machine learning, and neural network projects with a strong focus on learning in public, improving project quality, and turning concepts into portfolio-ready work.
+**Aspiring Data Analyst & ML Practitioner** building data science, machine learning, and neural network projects with a strong focus on learning in public, improving project quality, and turning concepts into portfolio‑ready work.
 
-I started with data analytics fundamentals and gradually expanded into machine learning, neural networks, SQL concepts, and project-based portfolio building.  
-Right now, I am focused on building stronger repositories, improving presentation quality, and growing from mini-projects toward more complex real-world systems.
+I started with data analytics fundamentals and gradually expanded into machine learning, neural networks, SQL concepts, and project‑based portfolio building.  
+Right now, I am focused on building stronger repositories, improving presentation quality, and growing from mini‑projects toward more complex real‑world systems.
+
+---
+
+## 🎯 What I’m Doing Right Now
+
+- Using my **Statistics** background to understand data, patterns, and model behavior  
+- Building **Machine Learning** projects (supervised, unsupervised, model comparison)  
+- Expanding into **Deep Learning / Neural Networks** (Perceptron, MLP, ANN on MNIST & Iris)  
+- Converting datasets into **clean notebooks, visualizations, and recruiter‑friendly GitHub repositories**  
+- Preparing for **Data Scientist, ML Engineer, and Data Analyst** opportunities  
 
 ---
 
@@ -67,7 +81,7 @@ Right now, I am focused on building stronger repositories, improving presentatio
       <h3>📊 K-Means Clustering Algorithm</h3>
       <p>
         An unsupervised learning mini project using <b>K-Means clustering</b> on a synthetic dataset.
-        It highlights clustering logic, visualization, and ML intuition beyond labeled prediction tasks.
+        It highlights clustering logic, visual interpretation, and ML intuition beyond labeled prediction tasks.
       </p>
       <a href="https://github.com/adiratna89/K-Means-Clustering-Algorithm">
         <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
@@ -78,8 +92,8 @@ Right now, I am focused on building stronger repositories, improving presentatio
     <td width="50%">
       <h3>🏦 Bank Loan Approval Prediction</h3>
       <p>
-        Classification project comparing <b>Logistic Regression, Decision Tree, and Random Forest</b> with AUC-focused evaluation.
-        This repo shows model comparison, evaluation thinking, and recruiter-friendly storytelling.
+        Classification project comparing <b>Logistic Regression, Decision Tree, and Random Forest</b> with AUC‑focused evaluation.
+        This repo shows model comparison, evaluation thinking, and recruiter‑friendly storytelling.
       </p>
       <a href="https://github.com/adiratna89/Bank-Loan-Approval-Logistic-Regression-Decision-Tree-Random-Forest-AUC">
         <img src="https://img.shields.io/badge/View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=black"/>
@@ -89,7 +103,7 @@ Right now, I am focused on building stronger repositories, improving presentatio
       <h3>🗂️ SQL Normalization Process</h3>
       <p>
         A SQL mini project demonstrating conversion from <b>unnormalized data to 1NF, 2NF, and 3NF</b>.
-        It adds database-design thinking to my portfolio beyond notebook-based ML work.
+        It adds database‑design thinking to my portfolio beyond notebook‑based ML work.
       </p>
       <a href="https://github.com/adiratna89/SQL-Normalization-Process-on-Order-Details">
         <img src="https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black"/>
@@ -100,8 +114,8 @@ Right now, I am focused on building stronger repositories, improving presentatio
     <td colspan="2">
       <h3>🛒 Sales Data Analysis</h3>
       <p>
-        End-to-end retail sales analysis on the Superstore dataset using <b>Python, Pandas, Seaborn, Matplotlib, and Excel</b>.
-        Focused on data cleaning, trend analysis, regional comparison, top-product insights, and visual reporting.
+        End‑to‑end retail sales analysis on the Superstore dataset using <b>Python, Pandas, Seaborn, Matplotlib, and Excel</b>.
+        Focused on data cleaning, trend analysis, regional comparison, top‑product insights, and visual reporting.
       </p>
       <a href="https://github.com/adiratna89/sales-data-analysis">
         <img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=black"/>
@@ -133,7 +147,7 @@ Right now, I am focused on building stronger repositories, improving presentatio
   </tr>
   <tr>
     <td><b>More Incoming</b></td>
-    <td>More advanced portfolio-grade projects are under development and will be uploaded soon.</td>
+    <td>More advanced portfolio‑grade projects are under development and will be uploaded soon.</td>
   </tr>
 </table>
 
@@ -146,24 +160,26 @@ Right now, I am focused on building stronger repositories, improving presentatio
 ## 🛠️ Now Building
 
 ### Recommendation System
-Currently working on a more advanced **Product Recommendation System** focused on customer-product interaction patterns, ranking logic, and stronger end-to-end project thinking.
+
+Currently working on a more advanced **Product Recommendation System** focused on customer‑product interaction patterns, ranking logic, and stronger end‑to‑end project thinking.
 
 ### Current Direction
-- Moving from mini-projects toward more complex, portfolio-grade systems
-- Improving GitHub presentation and repository storytelling
-- Strengthening ML, DL, analytics, and SQL foundations through practical builds
-- Uploading more advanced work soon
+
+- Moving from mini‑projects toward more complex, portfolio‑grade systems  
+- Improving GitHub presentation and repository storytelling  
+- Strengthening ML, DL, analytics, and SQL foundations through practical builds  
+- Uploading more advanced work soon  
 
 ---
 
-## 📈 Learning Trajectory
+## 📚 Learning Trajectory
 
-- Data analysis with stronger business storytelling
-- Machine learning model building and comparison
-- Neural networks: Perceptron, MLP, ANN workflows
-- Better GitHub repository structure and README design
-- SQL concepts and database normalization
-- Growing toward capstone-level and real-world inspired projects
+- Data analysis with stronger business storytelling  
+- Machine learning model building and comparison  
+- Neural networks: Perceptron, MLP, ANN workflows  
+- Better GitHub repository structure and README design  
+- SQL concepts and database normalization  
+- Growing toward capstone‑level and real‑world inspired projects  
 
 ---
 
