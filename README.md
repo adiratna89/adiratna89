@@ -176,19 +176,19 @@ Currently working on a more advanced **Product Recommendation System** focused o
 - Neural networks: Perceptron, MLP, ANN workflows  
 - Better GitHub repository structure and README design  
 - SQL concepts and database normalization  
-- Growing toward capstone‑level and real‑world inspired projects  
+- Growing toward capstone‑level, real‑world and Gen AI inspired projects  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adiratna89&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiratna89&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiratna89&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiratna89&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adiratna89&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=adiratna89&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub streak" />
 </p>
 
 ---
