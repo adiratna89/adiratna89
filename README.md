@@ -8,9 +8,6 @@
 
 <h1 align="center">
   Hi, I'm Adiratna Kamble&nbsp;<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving hand" width="40" height="40" style="vertical-align: middle;"></h1>
-<p align="center">
-  ✨ Learning Publicly &nbsp;•&nbsp; 🚀 Building Projects &nbsp;•&nbsp; 💻 Growing My Portfolio &nbsp;•&nbsp; 🔥 Improving Consistently
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Aspiring+Data+Analyst+%26+ML+Practitioner;Building+Machine+Learning+%2B+Deep+Learning+%2B+Analytics+Projects;Turning+Data+into+Insights%2C+Models%2C+and+Portfolio-Ready+Work;Learning+Deeply.+Building+Publicly.+Growing+Consistently." alt="Typing SVG" />
@@ -19,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-Portfolio%20in%20Progress-0f172a?style=for-the-badge&logo=github&logoColor=00F5D4" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Active%20Build%20Mode-111827?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Future%20Direction-ML%20%7C%20DL%20%7C%20SQL%20%7C%20Analytics-131A2A?style=for-the-badge&logo=target&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Future%20Direction-ML%20%7C%20DL%20%7C%20Gen%20AI%20%7C%20Analytics-131A2A?style=for-the-badge&logo=target&logoColor=A78BFA" />
 </p>
 
 ---
