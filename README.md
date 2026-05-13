@@ -64,38 +64,38 @@ Right now, I am focused on building stronger repositories, improving presentatio
 
 > A curated set of projects from my learning journey across Machine Learning, Deep Learning, SQL, and Data Analytics.
 
-- **🧠 MNIST ANN Digit Classification** — <code>Deep Learning</code> <code>TensorFlow</code> <code>Keras</code>  
-  **Focus:** Handwritten Digit Classification Using Artificial Neural Network.  
-  **Growth:** This project reflects my growth into deep learning, preprocessing, evaluation, and stronger repository presentation.  
-  **Link:** [View Project](https://github.com/adiratna89/MNIST-Artificial-Neural-Network-Handwritten-Digits-Classification)
+- **🧠 MNIST ANN Digit Classification** — `Deep Learning` `TensorFlow` `Keras`
+  - **Focus:** Handwritten Digit Classification Using Artificial Neural Network.
+  - **Growth:** This project reflects my growth into deep learning, preprocessing, evaluation, and stronger repository presentation.
+  - **Link:** [View Project](https://github.com/adiratna89/MNIST-Artificial-Neural-Network-Handwritten-Digits-Classification)
+  
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-  <sub>────────────────────────────────────────</sub>
+- **📊 K-Means Clustering Algorithm** — `Unsupervised Learning` `Clustering`
+  - **Focus:** Understanding clustering behavior, data grouping, and unsupervised learning patterns.
+  - **Growth:** It highlights clustering logic, visual interpretation, and ML intuition beyond labeled prediction tasks.
+  - **Link:** [View Project](https://github.com/adiratna89/K-Means-Clustering-Algorithm)
+  
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-- **📊 K-Means Clustering Algorithm** — <code>Unsupervised Learning</code> <code>Clustering</code>  
-  **Focus:** Understanding clustering behavior, data grouping, and unsupervised learning patterns.  
-  **Growth:** It highlights clustering logic, visual interpretation, and ML intuition beyond labeled prediction tasks.  
-  **Link:** [View Project](https://github.com/adiratna89/K-Means-Clustering-Algorithm)
+- **🏦 Bank Loan Approval Prediction** — `Machine Learning` `Classification` `AUC`
+  - **Focus:** Comparing classification models - Logistic Regression, Decision Tree, and Random Forest with AUC-driven evaluation for approval prediction.
+  - **Growth:** This project shows model comparison, evaluation thinking, and recruiter-friendly storytelling.
+  - **Link:** [View Project](https://github.com/adiratna89/Bank-Loan-Approval-Logistic-Regression-Decision-Tree-Random-Forest-AUC)
+  
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-  <sub>────────────────────────────────────────</sub>
+- **🗂️ SQL Normalization Process** — `SQL` `Database Design`
+  - **Focus:** Demonstrating database normalization from raw structure to 1NF, 2NF, and 3NF.
+  - **Growth:** It adds database-design thinking to my portfolio beyond notebook-based ML work.
+  - **Link:** [View Project](https://github.com/adiratna89/SQL-Normalization-Process-on-Order-Details)
+  
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-- **🏦 Bank Loan Approval Prediction** — <code>Machine Learning</code> <code>Classification</code> <code>AUC</code>  
-  **Focus:** Comparing classification models - Logistic Regression, Decision Tree, and Random Forest with AUC-driven evaluation for approval prediction.  
-  **Growth:** This project shows model comparison, evaluation thinking, and recruiter-friendly storytelling.  
-  **Link:** [View Project](https://github.com/adiratna89/Bank-Loan-Approval-Logistic-Regression-Decision-Tree-Random-Forest-AUC)
-
-  <sub>────────────────────────────────────────</sub>
-
-- **🗂️ SQL Normalization Process** — <code>SQL</code> <code>Database Design</code>  
-  **Focus:** Demonstrating database normalization from raw structure to 1NF, 2NF, and 3NF.  
-  **Growth:** It adds database-design thinking to my portfolio beyond notebook-based ML work.  
-  **Link:** [View Project](https://github.com/adiratna89/SQL-Normalization-Process-on-Order-Details)
-
-  <sub>────────────────────────────────────────</sub>
-
-- **🛒 Sales Data Analysis** — <code>Python</code> <code>Pandas</code> <code>Visualization</code>  
-  **Focus:** Exploring retail trends and business insights using Python-based data analysis.  
-  **Growth:** It reflects my development in data cleaning, exploratory analysis, visual storytelling, and turning raw data into clearer business understanding.  
-  **Link:** [View Project](https://github.com/adiratna89/sales-data-analysis)
+- **🛒 Sales Data Analysis** — `Python` `Pandas` `Visualization`
+  - **Focus:** Exploring retail trends and business insights using Python-based data analysis.
+  - **Growth:** It reflects my development in data cleaning, exploratory analysis, visual storytelling, and turning raw data into clearer business understanding.
+  - **Link:** [View Project](https://github.com/adiratna89/sales-data-analysis)
 
 ---
 
