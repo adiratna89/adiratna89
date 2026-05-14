@@ -88,38 +88,48 @@
         }
 
         @keyframes fall1 {
-          0%   { transform: translateY(-40px) translateX(0px) rotate(0deg); opacity: 0; }
-          15%  { opacity: 0.9; }
-          55%  { transform: translateY(66px) translateX(6px) rotate(90deg); opacity: 0.95; }
-          100% { transform: translateY(150px) translateX(-4px) rotate(180deg); opacity: 0.12; }
+        0%   { transform: translateY(-42px) translateX(0px) rotate(0deg) scale(0.92); opacity: 0; }
+        15%  { opacity: 0.92; }
+        30%  { transform: translateY(34px) translateX(-10px) rotate(55deg) scale(1); opacity: 0.96; }
+        48%  { transform: translateY(68px) translateX(12px) rotate(105deg) scale(0.98); opacity: 0.94; }
+        68%  { transform: translateY(106px) translateX(-8px) rotate(155deg) scale(1.02); opacity: 0.88; }
+        100% { transform: translateY(154px) translateX(10px) rotate(220deg) scale(0.9); opacity: 0.12; }
         }
 
         @keyframes fall2 {
-          0%   { transform: translateY(-42px) translateX(0px) rotate(0deg); opacity: 0; }
-          15%  { opacity: 0.9; }
-          55%  { transform: translateY(70px) translateX(-7px) rotate(110deg); opacity: 0.95; }
-          100% { transform: translateY(152px) translateX(5px) rotate(210deg); opacity: 0.12; }
+        0%   { transform: translateY(-44px) translateX(0px) rotate(0deg) scale(0.9); opacity: 0; }
+        16%  { opacity: 0.94; }
+        32%  { transform: translateY(36px) translateX(11px) rotate(60deg) scale(1.02); opacity: 0.97; }
+        50%  { transform: translateY(74px) translateX(-13px) rotate(118deg) scale(0.96); opacity: 0.95; }
+        72%  { transform: translateY(112px) translateX(9px) rotate(176deg) scale(1.01); opacity: 0.86; }
+        100% { transform: translateY(156px) translateX(-11px) rotate(238deg) scale(0.88); opacity: 0.12; }
         }
 
         @keyframes fall3 {
-          0%   { transform: translateY(-46px) translateX(0px) rotate(0deg); opacity: 0; }
-          15%  { opacity: 0.88; }
-          55%  { transform: translateY(72px) translateX(7px) rotate(100deg); opacity: 0.92; }
-          100% { transform: translateY(154px) translateX(-5px) rotate(220deg); opacity: 0.10; }
+        0%   { transform: translateY(-46px) translateX(0px) rotate(0deg) scale(0.88); opacity: 0; }
+        15%  { opacity: 0.9; }
+        28%  { transform: translateY(32px) translateX(-12px) rotate(50deg) scale(1); opacity: 0.95; }
+        46%  { transform: translateY(70px) translateX(14px) rotate(108deg) scale(1.04); opacity: 0.93; }
+        66%  { transform: translateY(108px) translateX(-10px) rotate(166deg) scale(0.97); opacity: 0.87; }
+        100% { transform: translateY(158px) translateX(12px) rotate(232deg) scale(0.86); opacity: 0.1; }
         }
 
         @keyframes fall4 {
-          0%   { transform: translateY(-38px) translateX(0px) rotate(0deg) scale(0.9); opacity: 0; }
-          18%  { opacity: 0.95; }
-          58%  { transform: translateY(74px) translateX(-9px) rotate(130deg) scale(1.02); opacity: 0.96; }
-          100% { transform: translateY(156px) translateX(8px) rotate(240deg) scale(0.88); opacity: 0.14; }
+        0%   { transform: translateY(-40px) translateX(0px) rotate(0deg) scale(0.9); opacity: 0; }
+        18%  { opacity: 0.95; }
+        34%  { transform: translateY(38px) translateX(13px) rotate(64deg) scale(1.03); opacity: 0.98; }
+        54%  { transform: translateY(78px) translateX(-15px) rotate(126deg) scale(0.98); opacity: 0.95; }
+        74%  { transform: translateY(116px) translateX(10px) rotate(190deg) scale(1.01); opacity: 0.88; }
+        100% { transform: translateY(160px) translateX(-12px) rotate(252deg) scale(0.88); opacity: 0.14; }
         }
 
         @keyframes fall5 {
-          0%   { transform: translateY(-44px) translateX(0px) rotate(0deg) scale(0.92); opacity: 0; }
-          16%  { opacity: 0.94; }
-          54%  { transform: translateY(68px) translateX(10px) rotate(120deg) scale(1.04); opacity: 0.98; }
-          100% { transform: translateY(158px) translateX(-7px) rotate(250deg) scale(0.86); opacity: 0.12; }
+        0%   { transform: translateY(-42px) translateX(0px) rotate(0deg) scale(0.92); opacity: 0; }
+        16%  { opacity: 0.94; }
+        30%  { transform: translateY(34px) translateX(-14px) rotate(58deg) scale(1.01); opacity: 0.97; }
+        52%  { transform: translateY(76px) translateX(16px) rotate(120deg) scale(1.05); opacity: 0.96; }
+        72%  { transform: translateY(114px) translateX(-11px) rotate(182deg) scale(0.97); opacity: 0.88; }
+        100% { transform: translateY(160px) translateX(13px) rotate(246deg) scale(0.86); opacity: 0.12; }
         }
 
         @keyframes slashLeftTravel {
@@ -467,12 +477,12 @@
         .d3 { top: 118px; left: 190px; animation-delay: 2s; }
         .d4 { top: 122px; right: 190px; animation-delay: 2.6s; }
 
-        .f1 { top: 2px; left: 72px; font-size: 14px; animation: fall1 5.6s linear infinite; }
-        .f2 { top: 8px; right: 82px; font-size: 15px; animation: fall2 6.1s linear infinite .8s; }
-        .f3 { top: 0px; left: 148px; font-size: 16px; animation: fall3 6.6s linear infinite 1.5s; }
-        .f4 { top: 4px; right: 156px; font-size: 17px; animation: fall1 5.9s linear infinite 1.2s; }
-        .f5 { top: -2px; left: 318px; font-size: 18px; animation: fall4 6.0s linear infinite .4s; }
-        .f6 { top: 1px; right: 304px; font-size: 19px; animation: fall5 6.4s linear infinite 1s; }
+        .f1 { top: 2px;  left: 72px;  font-size: 14px; animation: fall1 5.6s ease-in-out infinite; }
+        .f2 { top: 0px;  left: 292px; font-size: 16px; animation: fall3 6.6s ease-in-out infinite 1.5s; }
+        .f3 { top: 8px;  left: 168px; font-size: 15px; animation: fall2 6.1s ease-in-out infinite .8s; }
+        .f4 { top: 4px;  right: 208px; font-size: 17px; animation: fall4 5.9s ease-in-out infinite 1.2s; }
+        .f5 { top: -2px; right: 118px; font-size: 18px; animation: fall5 6.0s ease-in-out infinite .4s; }
+        .f6 { top: 1px;  right: 42px;  font-size: 19px; animation: fall2 6.4s ease-in-out infinite 1s; }
       </style>
 
       <div class="wrap">
