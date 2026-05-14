@@ -190,3 +190,7 @@ Currently working on a more advanced **Product Recommendation System** focused o
 <p align="center">
   <i>Learning deeply. Building consistently. Turning data into insight, models, and meaningful progress.</i>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="footer" />
+</p>
