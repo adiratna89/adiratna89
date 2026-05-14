@@ -1,13 +1,14 @@
-<!-- ============================================ -->
-<!--        MASTER HIGH-CREATIVE GITHUB README    -->
-<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/363b9f6b54de6da2891113a833af2ae8f67d9a9c1b2a99c79a2db7239d4fb25e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d6865616465722677696474683d313030" alt="header wave" />
+</p>
 
 <p align="center">
   <img src="./assets/name-banner-version-5-improved.svg" alt="banner" width="700" />
 </p>
 
 <h1 align="center">
-  Hi, I'm Adiratna Kamble&nbsp;<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving hand" width="40" height="40" style="vertical-align: middle;"></h1>
+  Hi, I'm Adiratna Kamble&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="40" height="40" style="vertical-align: middle;"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Aspiring+Data+Analyst+%26+ML+Practitioner;Building+Machine+Learning+%2B+Deep+Learning+%2B+Analytics+Projects;Turning+Data+into+Insights%2C+Models%2C+and+Portfolio-Ready+Work;Learning+Deeply.+Building+Publicly.+Growing+Consistently." alt="Typing SVG" />
