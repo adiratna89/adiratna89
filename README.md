@@ -24,9 +24,9 @@
 
 ## 🚀 Identity
 
-**Aspiring Data Analyst and Machine Learning Practitioner** with a Statistics background, a Data Analyst internship in marketing, and hands-on project work across data analysis, machine learning, deep learning, SQL, and business analytics.
+**Aspiring Data Analyst and Machine Learning Practitioner** with a Statistics background, a Data Analyst internship in marketing, and hands-on projects in data analysis, machine learning, deep learning, SQL, and business analytics.
 
-My work focuses on turning datasets into clear analysis, practical models, visual reporting, and well-structured GitHub repositories, backed by Topmentor certifications in data science, analytics, business analytics, and specialist tracks in ML, Python, SQL, BI tools, and Generative AI.
+My work focuses on turning datasets into clear analysis, practical models, visual reporting, and well‑structured GitHub repositories, backed by Topmentor certifications in data science, analytics, business analytics, and specialist tracks in ML, Python, SQL, BI tools, and Generative AI.
 
 ---
 ## 💡 Core Strengths
@@ -171,10 +171,9 @@ I am currently building a **Product Recommendation System** focused on customer-
 - Applying my **Statistics** foundation to analyze data patterns and support model understanding
 - Building **Machine Learning** projects with a focus on classification, clustering, and model comparison
 - Expanding into **Deep Learning / Neural Networks** through Perceptron, MLP, and ANN-based projects
-- strengthening my portfolio through project-based learning and more advanced end-to-end problem solving.
+- Strengthening my portfolio through project-based learning and more advanced end-to-end problem solving.
 - Improving project quality with cleaner notebooks, better visual storytelling, and stronger GitHub presentation
-- Progressing toward real-world and **GenAI-inspired projects**
-- Preparing for **Data Analyst, Data Scientist, and Machine Learning Engineer** opportunities
+- Progressing toward real-world and GenAI-inspired projects while preparing for **Data Analyst, Data Scientist, and Machine Learning Engineer** opportunities
 ---
 ## 📊 GitHub Analytics
 
