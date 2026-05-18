@@ -24,20 +24,19 @@
 
 ## 🚀 Identity
 
-**Aspiring Data Analyst & ML Practitioner** building data science, machine learning, and neural network projects with a strong focus on learning in public, improving project quality, and turning concepts into portfolio‑ready work.
+**Aspiring Data Analyst and Machine Learning Practitioner** with a Statistics background, a Data Analyst internship in marketing, and hands-on project work across data analysis, machine learning, deep learning, SQL, and business analytics.
 
-I started with data analytics fundamentals and gradually expanded into machine learning, neural networks, SQL concepts, and project‑based portfolio building.  
-Right now, I am focused on building stronger repositories, improving presentation quality, and growing from mini‑projects toward more complex real‑world systems.
+My work focuses on turning datasets into clear analysis, practical models, visual reporting, and well-structured GitHub repositories, backed by Topmentor certifications in data science, analytics, business analytics, and specialist tracks in ML, Python, SQL, BI tools, and Generative AI.
 
 ---
+## 💡 Core Strengths
 
-## 🎯 What I’m Doing Right Now
-
-- Using my **Statistics** background to understand data, patterns, and model behavior  
-- Building **Machine Learning** projects (supervised, unsupervised, model comparison)  
-- Expanding into **Deep Learning / Neural Networks** (Perceptron, MLP, ANN on MNIST & Iris)  
-- Converting datasets into **clean notebooks, visualizations, and recruiter‑friendly GitHub repositories**  
-- Preparing for **Data Scientist, ML Engineer, and Data Analyst** opportunities  
+- Data Analysis and Exploratory Data Analysis  
+- Machine Learning and Model Comparison  
+- Deep Learning and Neural Networks  
+- Python, SQL, Excel, Tableau, Power BI  
+- Data Cleaning, Visualization, and Reporting  
+- GitHub Project Presentation and Portfolio Building  
 
 ---
 
@@ -88,7 +87,7 @@ Right now, I am focused on building stronger repositories, improving presentatio
 
 - **🗂️ SQL Normalization Process** — `SQL` `Database Design`
   - **Focus:** Demonstrating database normalization from raw structure to 1NF, 2NF, and 3NF.
-  - **Growth:** It adds database-design thinking to my portfolio beyond notebook-based ML work.
+  - **Growth:** Shows structured data thinking and database fundamentals beyond notebook-based ML work.
   - **Link:** [View Project](https://github.com/adiratna89/SQL-Normalization-Process-on-Order-Details)
   
   <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
@@ -135,28 +134,48 @@ Right now, I am focused on building stronger repositories, improving presentatio
 
 ### Recommendation System
 
-Currently working on a more advanced **Product Recommendation System** focused on customer‑product interaction patterns, ranking logic, and stronger end‑to‑end project thinking.
+I am currently building a **Product Recommendation System** focused on customer-product interaction patterns, ranking logic, and practical end-to-end project development.
 
 ### Current Direction
 
-- Moving from mini‑projects toward more complex, portfolio‑grade systems  
-- Improving GitHub presentation and repository storytelling  
-- Strengthening ML, DL, analytics, and SQL foundations through practical builds  
-- Uploading more advanced work soon  
-
+- Moving from mini-projects toward stronger portfolio-grade systems
+- Strengthening ML, DL, analytics, and SQL through practical work
+- Improving repository storytelling and project presentation
+- Preparing more advanced work for upcoming uploads
 ---
 
-## 📚 Learning Trajectory
+## 💼 Experience
 
-- Data analysis with stronger business storytelling  
-- Machine learning model building and comparison  
-- Neural networks: Perceptron, MLP, ANN workflows  
-- Better GitHub repository structure and README design  
-- SQL concepts and database normalization  
-- Growing toward capstone‑level, real‑world and Gen AI inspired projects  
-
+- **Data Analyst Intern – Access Million, Pune**
+  - Aug 2025 – Feb 2026 | Marketing Department
+  - Worked with marketing-related data to support reporting, analysis, and campaign performance tracking.
+  - Assisted in organizing datasets, identifying trends, and preparing structured summaries for decision-making.
+  - Supported reporting workflows through data cleaning, performance monitoring, and insight-focused analysis.
 ---
 
+## 🎓 Certifications
+
+- Master’s in Data Science – Topmentor (Feb 2026)
+- Master’s in Data Analytics – Topmentor (Feb 2026)
+- Master’s in Business Analytics – Topmentor (Feb 2026)
+- Machine Learning Specialist – Topmentor (Feb 2026)
+- Python Specialist – Topmentor (Feb 2026)
+- SQL Specialist – Topmentor (Feb 2026)
+- Tableau Specialist & Power BI Specialist – Topmentor (Feb 2026)
+
+> Additional Topmentor certified areas: R Programming, Advanced Excel, Generative AI – ChatGPT Specialist, and Prompt Engineering (completed Feb 2026).
+---
+
+## 🎯 What I’m Doing Right Now
+
+- Applying my **Statistics** foundation to analyze data patterns and support model understanding
+- Building **Machine Learning** projects with a focus on classification, clustering, and model comparison
+- Expanding into **Deep Learning / Neural Networks** through Perceptron, MLP, and ANN-based projects
+- strengthening my portfolio through project-based learning and more advanced end-to-end problem solving.
+- Improving project quality with cleaner notebooks, better visual storytelling, and stronger GitHub presentation
+- Progressing toward real-world and **GenAI-inspired projects**
+- Preparing for **Data Analyst, Data Scientist, and Machine Learning Engineer** opportunities
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
