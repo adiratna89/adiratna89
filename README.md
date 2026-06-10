@@ -32,15 +32,18 @@ My work focuses on turning datasets into clear analysis, practical models, visua
 
 ## 💼 Hire Me
 
-I help businesses and professionals turn raw CSV/Excel data into clear insights and visualizations using Python.
+I help businesses and professionals turn raw data into clear insights, 
+visualizations, and interactive dashboards.
 
 ### Services I offer
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA)  
-- Charts and dashboards for reports or presentations  
-- Business insights from structured datasets  
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Charts and visual reporting in Python
+- Interactive Power BI or Excel dashboards
+- Business insights from any structured dataset
 
-🔗 You can hire me through my Fiverr gig here: (https://www.fiverr.com/adiratna_kamble?public_mode=true)
+🔗 **Data Analysis in Python** → [[My Gig 1 Link](https://www.fiverr.com/adiratna_kamble/do-data-analysis-and-visualization-in-python)]  
+🔗 **Power BI / Excel Dashboard** → [[My Gig 2 Link](https://www.fiverr.com/adiratna_kamble/create-an-interactive-power-bi-or-excel-dashboard-from-your-data)]
 
 ---
 
