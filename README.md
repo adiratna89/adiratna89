@@ -29,6 +29,21 @@
 My work focuses on turning datasets into clear analysis, practical models, visual reporting, and well‑structured GitHub repositories, backed by Topmentor certifications in data science, analytics, business analytics, and specialist tracks in ML, Python, SQL, BI tools, and Generative AI.
 
 ---
+
+## 💼 Hire Me
+
+I help businesses and professionals turn raw CSV/Excel data into clear insights and visualizations using Python.
+
+### Services I offer
+- Data cleaning and preprocessing  
+- Exploratory data analysis (EDA)  
+- Charts and dashboards for reports or presentations  
+- Business insights from structured datasets  
+
+🔗 You can hire me through my Fiverr gig here: (https://www.fiverr.com/adiratna_kamble?public_mode=true)
+
+---
+
 ## 💡 Core Strengths
 
 - Data Analysis and Exploratory Data Analysis  
