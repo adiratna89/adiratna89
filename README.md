@@ -42,8 +42,8 @@ visualizations, and interactive dashboards.
 - Interactive Power BI or Excel dashboards
 - Business insights from any structured dataset
 
-🔗 **Data Analysis in Python** → [[My Gig 1 Link](https://www.fiverr.com/adiratna_kamble/do-data-analysis-and-visualization-in-python)]  
-🔗 **Power BI / Excel Dashboard** → [[My Gig 2 Link](https://www.fiverr.com/adiratna_kamble/create-an-interactive-power-bi-or-excel-dashboard-from-your-data)]
+🔗 **Data Analysis in Python** → [My Gig 1 Link](https://www.fiverr.com/adiratna_kamble/do-data-analysis-and-visualization-in-python)    🔗 **Power BI / Excel Dashboard** → [My Gig 2 Link](https://www.fiverr.com/adiratna_kamble/create-an-interactive-power-bi-or-excel-dashboard-from-your-data)  
+🔗 **Machine Learning Model** → [My Gig 3 Link](https://www.fiverr.com/adiratna_kamble/build-a-machine-learning-model-for-your-dataset)
 
 ---
 
